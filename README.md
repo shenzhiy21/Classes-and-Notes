@@ -1,2 +1,3 @@
 # Classes and Notes
-Just classes I have taken in THU or from the internet, and notes I think important to take. 
+Notes and homework solutions of the course "Data Structure and Algorithms" by Prof. Junhui Deng, Tsinghua University.
+To be continued...
